@@ -8,4 +8,4 @@ import MyController from './controllers/mycontroller';
 angular.module('app', [])
 
 // Some Controllers
-.controller('MyController', MyController);
+angular.module('app').controller('MyController', MyController);

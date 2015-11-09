@@ -1,7 +1,22 @@
 // Put any @imports here
 // See Readme for a list of supported ones
 @import 'foundation';
+@import 'font-awesome';
 
 body {
-  background: #e2ebf3;
+  font-family: 'Bangers', cursive;
+}
+
+ul{
+list-style: none;
+  li{
+    display: inline-block;
+    font-size: 3em;
+  }
+}
+
+
+.thumb:active{
+  opacity: .5;
+
 }
