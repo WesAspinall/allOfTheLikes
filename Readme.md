@@ -1,6 +1,6 @@
 ## Welcome to My Project
 
-> I am your Readme.md file, you should probably update me.
+> This is my first project using AngularJS. It's just a simple like button for now---But oh, the possibilities. 
 
 
 ## Usage
